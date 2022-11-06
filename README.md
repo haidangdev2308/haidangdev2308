@@ -1,4 +1,5 @@
-### Hi there 👋
+
+![image](https://user-images.githubusercontent.com/115202737/200154634-d752c7bc-67dc-4c3f-9c22-fecb1cf42905.png)
 
 <!--
 **haidangdev2308/haidangdev2308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
