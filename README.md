@@ -1,6 +1,6 @@
 
 ![image](https://user-images.githubusercontent.com/115202737/200154634-d752c7bc-67dc-4c3f-9c22-fecb1cf42905.png)
-Front-end Developer
+React native Developer
 -------------------
 
 * 🌍  I'm based in HCM city
