@@ -4,7 +4,7 @@ React native Developer
 -------------------
 
 * 🌍  I'm based in HCM city
-* ✉️  You can contact me at [haidang23082002@gmail.com](mailto:haidang23082002@gmail.com)
+* ✉️  You can contact me at [haidang23082002@gmail.com](mailto:haidangcoder@gmail.com)
 
 ### Skills
 
